@@ -22,7 +22,9 @@ git clone https://github.com/urvitjaj417/Codtech_Intern.git
 
 2. Navigate to the project directory:
    ```bash
-cd Codtech_Intern
+   cd Codtech_Intern
+
+
 Ensure you have the necessary libraries installed for each specific script (e.g., pip install [library_name]).
 
 👤 Contact
